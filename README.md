@@ -16,3 +16,6 @@ Ejecutamos el comando de fbcmd4j.jar,
 En el newsfeed se guardan nuestras publicaciones en un archivo,
 El Wall guarda mi publicacion,
 Publico un estado de prueba en el Wall
+
+
+
